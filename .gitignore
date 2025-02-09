@@ -173,3 +173,6 @@ cython_debug/
 
 # VS Code related artifacts
 .DS_Store
+
+local_file.csv
+local_file.json 
